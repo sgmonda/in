@@ -1,0 +1,10 @@
+{
+    "name": "in",
+    "version": "0.0.1",
+    "description": "Node.js module to standard input management",
+    "preferGlobal": "false",
+    "main": "in.js",
+    "author": "Sergio Garcia Mondaray",
+    "keywords": ["input", "console"],
+    "engines": { "node": "*" }
+}
