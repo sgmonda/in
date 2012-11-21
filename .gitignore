@@ -1,1 +1,4 @@
+.gitignore
 pruebas.js
+npm-debug.log
+
