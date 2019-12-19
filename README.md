@@ -1,3 +1,7 @@
+# THIS MODULE HAS BEEN DEPRECATED
+# See https://github.com/sgmonda/stdio
+
+
 Module for input management with nodejs.
 
 This is a very young project. Use it at your own risk.
